@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "NRF52840-DONGLE")(type "Legacy")(uri "/Users/dimitris/Documents/KiCad/IL2232_project/libraries/NRF52840-DONGLE/NRF52840-DONGLE.lib")(options "")(descr ""))
+)
