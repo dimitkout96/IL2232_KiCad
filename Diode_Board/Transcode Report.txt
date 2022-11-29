@@ -1,0 +1,6 @@
+
+
+   ---- Transcoding 'C:\Users\oskan\Documents\GitHub\IL2232_KiCad\Diode_Board\Diode_Board-Edge_Cuts.gbr' ----   Wed Nov 23 12:32:59 2022
+
+D10   --> D100
+-----------------------------------------------------------------

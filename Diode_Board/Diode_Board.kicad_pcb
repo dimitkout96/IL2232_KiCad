@@ -40,7 +40,7 @@
   (setup
     (pad_to_mask_clearance 0)
     (pcbplotparams
-      (layerselection 0x00010fc_ffffffff)
+      (layerselection 0x0001000_ffffffff)
       (disableapertmacros false)
       (usegerberextensions false)
       (usegerberattributes true)
@@ -68,9 +68,9 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "")
+      (outputdirectory "./")
     )
   )
 
@@ -225,7 +225,7 @@
     )
   )
 
-  (gr_rect (start 113.03 86.36) (end 130.81 104.14) (layer "Edge.Cuts") (width 0.2) (fill none) (tstamp beab6ac7-6e59-483a-a7fc-c7be98566187))
+  (gr_rect (start 115.57 88.9) (end 130.81 104.14) (layer "Edge.Cuts") (width 0.2) (fill none) (tstamp beab6ac7-6e59-483a-a7fc-c7be98566187))
 
   (segment (start 119.38 91.44) (end 127 91.44) (width 0.25) (layer "F.Cu") (net 1) (tstamp 24c65c94-721d-43ce-8064-35e296cf760c))
   (segment (start 117.79 100.01) (end 116.84 99.06) (width 0.25) (layer "F.Cu") (net 1) (tstamp 3f115735-9d90-439c-9133-4b7a9ab6e855))
