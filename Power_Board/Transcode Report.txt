@@ -1,0 +1,6 @@
+
+
+   ---- Transcoding 'C:\Users\oskan\Documents\GitHub\IL2232_KiCad\Power_Board\Power_Board-NPTH.drl' ----   Tue Dec  6 09:49:28 2022
+
+T1   --> T3
+-----------------------------------------------------------------
